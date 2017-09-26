@@ -1,7 +1,11 @@
 # Shenzhen Jenkins Area Meetup
 
 ## 简介
+Shenzhen Jenkins Area Meetup 是中国的第一个JAM活动，获得Jenkins社区的官方授权，参考 https://www.meetup.com/Shenzhen-Jenkins-Area-Meetup/ 和 https://jenkins.io/projects/jam/ 
+
 主题：Jenkins 2.0 - 超越CI
+
+主办方：vivo移动互联网
 
 时间：2017年6月17日 下午13:00
 
